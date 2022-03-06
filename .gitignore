@@ -10,3 +10,9 @@ doc/api/
 
 .idea/
 
+.bin/
+
+.lib/
+
+.analysis_options.yaml/
+
