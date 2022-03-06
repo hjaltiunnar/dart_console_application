@@ -8,6 +8,7 @@ build/
 # Directory created by dartdoc
 doc/api/
 
-*.analysis_options.yaml
+.analysis_options.yaml
 
-*.CHANGELOG.md
+.CHANGELOG.md
+
