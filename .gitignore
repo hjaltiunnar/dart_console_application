@@ -10,9 +10,12 @@ doc/api/
 
 .idea/
 
-.bin/
+bin/
 
-.lib/
+lib/
 
-.analysis_options.yaml/
+analysis_options.yaml/
+
+pubspec.lock/
+pubspec.yaml/
 
