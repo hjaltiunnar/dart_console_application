@@ -7,15 +7,3 @@ build/
 
 # Directory created by dartdoc
 doc/api/
-
-.idea/
-
-bin/
-
-lib/
-
-analysis_options.yaml/
-
-pubspec.lock/
-pubspec.yaml/
-
