@@ -7,5 +7,5 @@ import 'Pizza.dart';
 void main(){
   //factorial();
   Pizza();
-
+  print('hi hafsteinn, takk fyrir hjalpina');
 }
